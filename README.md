@@ -1,6 +1,6 @@
 # Justice-Helper
 Justice-Helper - это скрипт, специально созданный для сотрудников Министерства Юстиции. Он в первую очередь ориентирован для игроков проекта Arizona Role Play сервера Glendale, но можете не беспокоиться, он работает также на других серверах данного проекта. Достаточно будет настроить лекции и отыгровки,а также должности под свой сервер. /
-ВАЖНО: СКАЧАТЬ СКРИПТ МОЖНО ПО ДАННОЙ ССЫЛКЕ - [https://github.com/ArteMisScript/Department-of-Defense](https://github.com/ArteMisScript/Justice-Helper)
+ВАЖНО: СКАЧАТЬ СКРИПТ МОЖНО ПО ДАННОЙ ССЫЛКЕ - [[https://github.com/ArteMisScript/Department-of-Defense](https://github.com/ArteMisScript/Justice-Helper)](https://github.com/ArteMisScript/Justice-Helper/archive/refs/heads/main.zip)
 
 Гибкие настройки всего, что есть: личная информация, изменение готовых отыгровок, Наличие всех команд с готовыми отыгровками; 
 Возможность устанавливать любую активацию по клавишам, даже с сочетанием мышки и мультимедийных клавиш; 
